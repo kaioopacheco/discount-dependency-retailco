@@ -32,4 +32,3 @@ The Tableau dashboard provides a visual overview of discount distribution and ne
 - **SQL**
 - **Python** (DuckDB, Pandas, NumPy, Matplotlib)
 - **Data Visualization:** Tableau
-# discount-dependency-retailco
