@@ -3,6 +3,9 @@
 ## Overview
 This project analyzes the relationship between discount strategies and net revenue in a retail environment. The objective is to understand how different discount levels relate to revenue outcomes and to support pricing and promotional decision making using data.
 
+[Project Page (business oriented view)](https://www.kaiopacheco.com/retailcodiscountdependencyandnetrevenue)
+
+
 ## Business Problem
 Retail companies frequently rely on discounts to drive demand, but excessive discounting can negatively impact overall revenue. This analysis evaluates whether higher discount levels are consistently associated with higher net revenue and how this relationship varies across customer segments and related business dimensions.
 
