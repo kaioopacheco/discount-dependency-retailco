@@ -27,9 +27,9 @@ Public retail transactions dataset containing multiple CSV tables, including tra
 The Tableau dashboard provides a visual overview of discount distribution and net revenue behavior across segments. It supports the analytical findings by making it easier to observe revenue patterns across discount levels and compare performance across key groupings.
 
 ## Key Insights
-- Higher discount levels do not consistently lead to higher net revenue
-- Net revenue behavior varies across customer segments and other business dimensions
-- Some discount ranges show more stable revenue outcomes compared to heavily discounted ranges
+- Discounted transactions consistently represent a major share of net revenue
+- Net revenue behavior slightly varies across customer segments and other business dimensions
+- Contrary to initial expectations, wholesale customers do not consistently generate higher purchase volume
 
 ## Tools and Technologies
 - **SQL**
