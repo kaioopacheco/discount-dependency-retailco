@@ -1,7 +1,7 @@
 # Discount Dependency in RetailCo Net Revenue
 
 ## Overview
-This project analyzes the relationship between discount strategies and net revenue in a retail environment. The objective is to understand how different discount levels relate to revenue outcomes and to support pricing and promotional decision making using data.
+This project analyzes the relationship between discount levels and net revenue in a retail environment using transactional sales data. The analysis focuses on identifying patterns in net revenue behavior across different discount ranges and business dimensions, highlighting how revenue responds under varying commercial conditions.
 
 [Project Page (business oriented view)](https://www.kaiopacheco.com/retailcodiscountdependencyandnetrevenue)
 
