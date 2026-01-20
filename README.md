@@ -5,9 +5,16 @@ This project analyzes the relationship between discount levels and net revenue i
 
 [Project Page (business oriented view)](https://www.kaiopacheco.com/retailcodiscountdependencyandnetrevenue)
 
-
 ## Business Problem
 Retail companies frequently rely on discounts to drive demand, but excessive discounting can negatively impact overall revenue. This analysis evaluates whether higher discount levels are consistently associated with higher net revenue and how this relationship varies across customer segments and related business dimensions.
+
+## Key Metrics (KPIs)
+- **Net Revenue (Primary KPI):** gross revenue - discount amount
+- **Gross Revenue:** total revenue before discounts
+- **Discount Amount:** absolute discount value per order
+- **Discount Rate:** discount amount / gross revenue
+- **Average Order Value (AOV):** average order value across discount buckets
+
 
 ## Dataset
 Public retail transactions dataset containing multiple CSV tables, including transactions, customers, stores, and user access logs.
