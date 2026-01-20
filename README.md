@@ -11,7 +11,6 @@ Retail companies frequently rely on discounts to drive demand, but excessive dis
 ## Key Metrics (KPIs)
 - **Net Revenue (Primary KPI):** gross revenue - discount amount
 - **Gross Revenue:** total revenue before discounts
-- **Discount Amount:** absolute discount value per order
 - **Discount Rate:** discount amount / gross revenue
 - **Average Order Value (AOV):** average order value across discount buckets
 
